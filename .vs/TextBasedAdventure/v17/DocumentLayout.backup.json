@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tijev\\source\\repos\\TextBasedAdventure\\DarkRestart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B17A2586-398E-43AE-ADE8-D3C5992CABC4}|TextBasedAdventure\\TextBasedAdventure.csproj|c:\\users\\tijev\\source\\repos\\textbasedadventure\\darkrestart\\textbasedadventure\\storymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17A2586-398E-43AE-ADE8-D3C5992CABC4}|TextBasedAdventure\\TextBasedAdventure.csproj|solutionrelative:textbasedadventure\\storymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17A2586-398E-43AE-ADE8-D3C5992CABC4}|TextBasedAdventure\\TextBasedAdventure.csproj|c:\\users\\tijev\\source\\repos\\textbasedadventure\\darkrestart\\textbasedadventure\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17A2586-398E-43AE-ADE8-D3C5992CABC4}|TextBasedAdventure\\TextBasedAdventure.csproj|solutionrelative:textbasedadventure\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17A2586-398E-43AE-ADE8-D3C5992CABC4}|TextBasedAdventure\\TextBasedAdventure.csproj|c:\\users\\tijev\\source\\repos\\textbasedadventure\\darkrestart\\textbasedadventure\\story.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B17A2586-398E-43AE-ADE8-D3C5992CABC4}|TextBasedAdventure\\TextBasedAdventure.csproj|solutionrelative:textbasedadventure\\story.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17A2586-398E-43AE-ADE8-D3C5992CABC4}|TextBasedAdventure\\TextBasedAdventure.csproj|c:\\users\\tijev\\source\\repos\\textbasedadventure\\darkrestart\\textbasedadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17A2586-398E-43AE-ADE8-D3C5992CABC4}|TextBasedAdventure\\TextBasedAdventure.csproj|solutionrelative:textbasedadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17A2586-398E-43AE-ADE8-D3C5992CABC4}|TextBasedAdventure\\TextBasedAdventure.csproj|c:\\users\\tijev\\source\\repos\\textbasedadventure\\darkrestart\\textbasedadventure\\save.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B17A2586-398E-43AE-ADE8-D3C5992CABC4}|TextBasedAdventure\\TextBasedAdventure.csproj|solutionrelative:textbasedadventure\\save.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "save.txt",
+              "DocumentMoniker": "C:\\Users\\tijev\\source\\repos\\TextBasedAdventure\\DarkRestart\\TextBasedAdventure\\save.txt",
+              "RelativeDocumentMoniker": "TextBasedAdventure\\save.txt",
+              "ToolTip": "C:\\Users\\tijev\\source\\repos\\TextBasedAdventure\\DarkRestart\\TextBasedAdventure\\save.txt",
+              "RelativeToolTip": "TextBasedAdventure\\save.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-20T09:06:34.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "story.json",
+              "DocumentMoniker": "C:\\Users\\tijev\\source\\repos\\TextBasedAdventure\\DarkRestart\\TextBasedAdventure\\story.json",
+              "RelativeDocumentMoniker": "TextBasedAdventure\\story.json",
+              "ToolTip": "C:\\Users\\tijev\\source\\repos\\TextBasedAdventure\\DarkRestart\\TextBasedAdventure\\story.json",
+              "RelativeToolTip": "TextBasedAdventure\\story.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T09:06:20.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\tijev\\source\\repos\\TextBasedAdventure\\DarkRestart\\TextBasedAdventure\\StoryManager.cs",
+              "RelativeDocumentMoniker": "TextBasedAdventure\\StoryManager.cs",
+              "ToolTip": "C:\\Users\\tijev\\source\\repos\\TextBasedAdventure\\DarkRestart\\TextBasedAdventure\\StoryManager.cs",
+              "RelativeToolTip": "TextBasedAdventure\\StoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:05:51.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\tijev\\source\\repos\\TextBasedAdventure\\DarkRestart\\TextBasedAdventure\\GameManager.cs",
+              "RelativeDocumentMoniker": "TextBasedAdventure\\GameManager.cs",
+              "ToolTip": "C:\\Users\\tijev\\source\\repos\\TextBasedAdventure\\DarkRestart\\TextBasedAdventure\\GameManager.cs",
+              "RelativeToolTip": "TextBasedAdventure\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:05:28.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tijev\\source\\repos\\TextBasedAdventure\\DarkRestart\\TextBasedAdventure\\Program.cs",
+              "RelativeDocumentMoniker": "TextBasedAdventure\\Program.cs",
+              "ToolTip": "C:\\Users\\tijev\\source\\repos\\TextBasedAdventure\\DarkRestart\\TextBasedAdventure\\Program.cs",
+              "RelativeToolTip": "TextBasedAdventure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:20:31.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

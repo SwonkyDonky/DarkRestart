@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "43HTAewarJc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tijev\\source\\repos\\TextBasedAdventure\\DarkRestart\\TextBasedAdventure\\TextBasedAdventure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tijev\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

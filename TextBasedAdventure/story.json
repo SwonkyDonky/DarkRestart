@@ -1,0 +1,309 @@
+﻿{
+    "tutorial": {
+        "Text": "Welcome. \n\nWould you like to start the tutorial or skip it?",
+        "Hint": "This is the tutorial. Type 'start' to begin or 'skip' to skip the tutorial.",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "start_tutorial": "Start",
+            "1": "Skip"
+        }
+    },
+    "start_tutorial": {
+        "Text": "Great! In the game, if you're stuck, just type 'hint' and you'll get advice.\nIf you want to save your progress, type 'save' at any time.\nWhen making choices, try typing the option name itself, like 'Go north' instead of '1'. You can also use numbers if you prefer.\nThat's it for the tutorial. Have fun!",
+        "Hint": "You're already in the tutorial!",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "1": "Begin your adventure"
+        }
+    },
+    "1": {
+        "Text": "You slowly open your eyes. You wake up from what felt like eternal sleep, but also like you haven't slept at all... \nYou stand up. You're wearing a dirty and a bit torn leather armor, \nand beside you lies a sword that misses half of it's blade. \nIt might still be useful though. \nThe only thing you want, is to get out.",
+        "Hint": "Carrying a weapon can severely increase your chances of survival",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "2": "pickup the sword",
+            "9": "leave the sword"
+        }
+    },
+    "2": {
+        "Text": "You pick up your sword, and put it in your sheathe. \nYou take a look at your surroundings. \nAround you are the rough, stone walls of the dimly lit cave you just woke up in. \nThere’s a trail of blood, leading to the spot where you woke up.",
+        "Hint": "Exploring a small cave isn't very helpful in your situation.",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "3": "follow the trail of blood",
+            "25": "explore the cave"
+        }
+    },
+    "3": {
+        "Text": "Following the trail of blood, it leads you to the entrance of the cave. \nYou see a weird creature sitting at the right side of the entrance. \nIt looks humanoid, but... Gross, and aggresive. An orc.",
+        "Hint": "An orc is dangerous in this world.",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "4": "sneak past it",
+            "28": "fight it"
+        }
+    },
+    "4": {
+        "Text": "You sneak around the left edge of the cave entrance to keep the most distance possible. \nSuddenly, the orc looks up. When it looks in your direction... It grunts, and closes It's eyes again. \nYou sigh of relief, and continue on from the rock you just hid behind. \nYou can go to an open field from here, or continue on the path to the forest.",
+        "Hint": "Open fields often expose yourself to many threats.",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "5": "the forest",
+            "29": "open field"
+        }
+    },
+    "5": {
+        "Text": "You continue on to the forest. Even though many forests are pretty, this one is not. \nIt has a dark, grim aura, and the trees are all very dark of colour. \nIt also looks like the trees are hanging over you, which makes it a very dense forest. \nAfter walking down the path for a few hours, you hear big footsteps coming your way. \nWhat could be so big for you to hear it's footsteps already?",
+        "Hint": "Do you want to fight, or do you not? I sure do!.",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "6": "keep going",
+            "32": "hide in the forest"
+        }
+    },
+    "6": {
+        "Text": "With overflowing confidence, you continue onwards to the possibly huge enemy. \nAfter a few minutes, you see it. A huge bear, possibly 4-5 meters tall. It's walking on 2 legs, holding bloody rocks in both front paws. \nWith it's messy fur and many big scars, you know this is not just another enemy. \nThis is a force to be reckoned with. Still, with your confidence, you could do anything.",
+        "Hint": "Seek. Strength. The rest will follow...",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "7": "attack",
+            "33": "wait for the bears attack"
+        }
+    },
+    "7": {
+        "Text": "You unsheathe your small, broken sword and charge towards the huge bear. \nThe bear ROARS, and strikes it's two boulders at the same time towards you. \nYou jump as high as you can just before they hit the ground, and land on the left boulder. \nBefore the bear even realizes he missed, you run up it's huge right arm! \nIt tries to bite you when you are in range of it's head, but you dodge it swiftly while sliding down it's neck. \nAt the same time, you hold your sword in both hands, slicing centimeters deep in the bears throat, all the way to its neck. \nA clean cut. \nThe bear dies soon after.",
+        "Hint": "This one shouldn't be too hard for you, or are you just messing with me?",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "8": "continue"
+        }
+    },
+    "8": {
+        "Text": "Not far behind the bears corpse is the exit of the forest. \nWalking towards the exit, you notice the trees getting greener and greener, more colourful. \nYou start hearing birds chirping. \nWhat you see when you walk past the last few trees of the forest is breathtaking. \nBeautiful green hills, a river and the best of all, a village! \nYou wonder if there are still people living there, and continue your journey towards the plains.",
+        "Hint": "Good job my vro.",
+        "Death": false,
+        "Win": true
+    },
+    "9": {
+        "Text": "You take a look at your surroundings. \nAround you are the rough, stone walls of the dimly lit cave you just woke up in. \nThere’s a trail of blood, leading to the spot where you woke up.",
+        "Hint": "You litterally only have one option, ya dingus.",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "10": "follow the trail of blood"
+        }
+    },
+    "10": {
+        "Text": "You follow the trail of blood, leading to the entrance of the cave. \nYou see a weird creature sitting at the right side of the entrance. \nIt looks humanoid, but... Gross, and aggresive. An orc.",
+        "Hint": "You feel like you can win easily. Punch em!",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "11": "sneak past it",
+            "21": "punch em"
+        }
+    },
+    "11": {
+        "Text": "You sneak around the left edge of the cave entrance to keep the most distance possible. \nWhen you get behind a rock, you start thinking. \nThis isn't you! You wanna punch that orc. In the face.",
+        "Hint": "Bro..? Just punch the Orc. Cmon.",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "12": "dont fight it",
+            "21": "punch em"
+        }
+    },
+    "12": {
+        "Text": "Ok. You actually DONT want to punch the orc in the face. \nYoure probably sick right now. \nAs you walk away to the path, you doubt your choise.. \nYou really dont want to?",
+        "Hint": "PLEASE JUST PUNCH THE ORC!! PLEASE!!!!!!",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "13": "dont fight it",
+            "21": "punch em"
+        }
+    },
+    "13": {
+        "Text": "Fine. You continue on the path. \nYou can go to an open field from here, or continue on the path to the forest. \nOr...",
+        "Hint": "Wow look at that. You found a secret route! Cool!",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "16": "the forest",
+            "22": "open field",
+            "14": "secret path"
+        }
+    },
+    "14": {
+        "Text": "By thinking about if you should punch the orc or not, \nyou notice a small path next to the forests path, so small you can barely see it. \nYou decide to walk the small path. Who knows what might be there? \nAfter following the path for a while, you see a beautiful scenery. \nOld but healthy, green trees, one very big tree that looks like it has a face, flowers, tiny water rivers... \nAnd the most interesting thing of all, a sort of stone platform in the middle with a... \nSword in it?! Is this a legendary item?",
+        "Hint": "You are not him. You know what I mean.",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "15": "approach it"
+        }
+    },
+    "15": {
+        "Text": "You slowly approach the sword... When suddenly, you hear someone! \nYou quickly hide behind a stone, and peek at the stone platform.. \nThe person wears green clothing, and a weird green pointy hat.. It's a he for sure. \nAnd.. Does he have elven ears?! \nYou watch him easily take out the sword. He then makes some weird noises... \n'Haah!!', 'Hyaah!!', 'Hrraah!!!'...\nYou decide it's best to just go back to the forest path. \nThere's a shortcut to it where you are right now. \nWhen you are almost at the path of the forest, you hear loud stomping... What could that be?",
+        "Hint": "Aaaaand we loop around! I am so smart.",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "17": "take a look"
+        }
+    },
+    "16": {
+        "Text": "You continue on to the forest. Even though many forests are pretty, this one is not. \nIt has a dark, grim aura, and the trees are all very dark of colour. \nIt also looks like the trees are hanging over you, which makes it a very dense forest. \nAfter walking down the path for a few hours, you hear big footsteps coming your way. \nWhat could be so big for you to hear it's footsteps already?",
+        "Hint": "You are strong. Be brave.",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "17": "keep going",
+            "20": "hide in the forest"
+        }
+    },
+    "17": {
+        "Text": "With overflowing confidence (and strength), you continue onwards to the possibly huge enemy. \nAfter a few minutes, you see it. A huge bear, possibly 4-5 meters tall. It's walking on 2 legs, holding bloody rocks in both front paws. \nWith it's messy fur and many big scars, you know this is not just another enemy. \nThis is a force to be reckoned with. \nStill, with your confidence (and strength), you could do anything.",
+        "Hint": "You. Are. Him!!!",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "18": "PUNCH EM"
+        }
+    },
+    "18": {
+        "Text": "The bear ROARS and instantly tries to end this fight by trying to pummel you with it's deadly rocks. \nIt seems that you pose a threat to it. \nWith swift moves, you unarm the bear by dodging the bears attack, and then counterattacking by punching the rocks! \nIn an instant, the bear lost his right rock, and his left rock is about to fall down since you launched it in the air. \nBefore the rock lands, you punch it with all your might, and you break straight through. \nYou jump through the scattered small rocks straight to it's head, and then with another big PUNCH, the head comes clean off the bear. \nYou continue your walk on the forests path.",
+        "Hint": "What a fight! Wow!!!!",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "19": "continue"
+        }
+    },
+    "19": {
+        "Text": "Not far behind the bears corpse is the exit of the forest. \nWalking towards the exit, you notice the trees getting greener and greener, more colourful. \nYou start hearing birds chirping. \nWhat you see when you walk past the last few trees of the forest is breathtaking. \nBeautiful green hills, a river and the best of all, a village! \nYou wonder if there are still people living there (so you can punch em'), and continue your journey towards the plains.",
+        "Hint": "Nice ending bro.",
+        "Death": false,
+        "Win": true
+    },
+    "20": {
+        "Text": "You take a (cowardly) rational decision and decide it's best to avoid whatever is coming at you. \nAfter a few minutes of hiding in some bushes, the creature stopped walking about 10 meters away from you. \nCause of the bushes, you can't really see how it looks like. It's definitely big, and brown-black. \nYou hear it sniffing like a mad dog, and you feel threatened. \nJust as you try to move deeper in the forest, you hear a loud roar from the creature, \nand the last thing you see is a dark red boulder above your head.",
+        "Hint": "lmaooooo",
+        "Death": true,
+        "Win": false
+    },
+    "21": {
+        "Text": "You know you can handle some orc. You walk towards the orc, half asleep. You tap on his shoulder. \n'Yoo-hoo!' \nThe orc is startled, jumps up, and when it sees you, it swings their big, horrible and bloody looking sword right at your throat! \nJust before it hits you, you easily stop the sword with your left thumb and index finger. \nThe orc is so in shock that he freezes. \nWhen the orc gets back to reality, you punch him straight in the face, flinging him about 10 meters in high speed against a tree. \nHes very dead. \nYou continue down the path. You can go to an open field from here, or continue on the path to the forest.",
+        "Hint": "Whatever fancy's you most.",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "16": "the forest",
+            "22": "open field"
+        }
+    },
+    "22": {
+        "Text": "After walking for a bit, you get closer to the open field. \nYou see this is not just a field. It has the stench of battle. \nEverything is dark, grey sand and dirt. \nYou see some old equipment like swords, empty armor, shields, flags, and more. \nWhat happened here? . . . . Suddenly, you feel the ground shaking a bit. \nIn the distance you see.. \nA horde of orc's and goblins coming your way?!",
+        "Hint": "ATTACK!!!!!!!!!!!!!!",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "23": "PUNCH EM ALL"
+        }
+    },
+    "23": {
+        "Text": "Like an absolute UNIT, you approach the horde instead of running away. \nThe horde clearly doesn't see the strength that resides in you. \nOut of the blue, an arrow is coming your way. \nJust before it can penetrate your head, you catch it with your right hand. \nHeh. You break the arrow with the same arm. \nThe horde is now a few meters away from you. You jump at the first orc trying to get the first hit. \nWith a swift action, you punch a hole straight through it's chest! \nAnother 2 orcs try to attack instantly after. \nYou dodge them with minimal movement, and bash their heads against eachother. \nKill after kill, you punch the whole horde to their demise.",
+        "Hint": "ATTACK!!!!!!!!!!!!!!",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "24": "become The Puncher"
+        }
+    },
+    "24": {
+        "Text": "With having eliminated the whole horde, you take a look at your hands. \nDark red, from all the punching. \nYou smirk... Heh... \nYou then continue on the field to the ongoing war, to destruction. \nYou become the most fearsome foe any creature has ever seen... \nThe Puncher.",
+        "Hint": "So sigma. Super sigma gigachad.",
+        "Death": false,
+        "Win": true
+    },
+    "25": {
+        "Text": "You wander around the small cave, and with it being dark, you almost trip over something. \nWhen you take a look at what you tripped over, you see... A human's head. \nTheir body lies few meters apart. I'ts rotting...",
+        "Hint": "Ewwww!!!!",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "26": "run away",
+            "27": "check for loot"
+        }
+    },
+    "26": {
+        "Text": "You run away towards the entrance, screaming like a baby. \nA certain 'creature' hears you, and runs towards you. \nBefore you could even properly react, you got stabbed through your vital organs. \nIn your last moment, the only thing you sense is your body getting dragged away...",
+        "Hint": "Welp, your fault for not having a tough stomach.",
+        "Death": true,
+        "Win": false
+    },
+    "27": {
+        "Text": "You squint your eyes trying to find anything useful. \nAfter a minute or two, you see a wooden handle. \nYou remove some sand and dust, and... \nIt's a broken crossbow. \nWow. \nWhy is everything broken here? You make your way back to the entrance by following the trail of blood.",
+        "Hint": "Dang. All for nothing huh?",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "3": "continue"
+        }
+    },
+    "28": {
+        "Text": "You sneak behind it in the hopes of a stealth attack... \nBut the orc notices you! It swings their big, horrible and bloody looking sword right at your throat! \nYou dodge it just before it could hit, and charge in with your broken sword. \nThe orc does a step backwards to get ready for your attack, but almost trips and loses it's balance. \nYou use this opportunity to shove your sword in it's chest. After a gross scream of pain and agony, it falls on the floor. \nIt died. \nThinking about it's 'friends' hearing it's scream, you quickly move towards a close by field.",
+        "Hint": "Nice fight, good job!",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "29": "continue"
+        }
+    },
+    "29": {
+        "Text": "After walking for a bit, you get closer to the open field. \nYou see this is not just a field. It has the stench of battle. \nEverything is dark, grey sand and dirt. \nYou see some old equipment like swords, empty armor, shields, flags, and more. What happened here?\n . . . . \nSuddenly, you feel the ground shaking a bit. In the distance you see.. \nA horde of orc's and goblins coming your way?!",
+        "Hint": "You might wanna pull a Joseph Joestar here.. If you know what I mean..",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "30": "run",
+            "31": "fight them"
+        }
+    },
+    "30": {
+        "Text": "When you realize what devastating force awaits you, your legs start moving in the opposite direction. \nYou then turn aroud, and start running like you never did before. \nYou run so fast you couldn't hear anything but the sound of the wind getting sliced up by you. \nShortly after, you lost the horde, and find yourself at the entrance of the forest.",
+        "Hint": "Phew.. Im glad you could run this fast.",
+        "Death": false,
+        "Win": false,
+        "Options": {
+            "5": "continue"
+        }
+    },
+    "31": {
+        "Text": "You smirk. Heh.. \nIs this all they can do? You pull out your very broken sword. \nYou walk towards the horde. \nYou. Are. Him. \n... \nAn arrow flies through the air coming from the horde, landing in your left leg. \nYou scream it out, with pointing your hands at your leg, like an idiot. \nAnother arrow pierces through the air, landing in your right leg. \nYou scream it out once more, now pointing your hands continuously at both legs. \nThe horde now has surrounded you, and is chopping you up in pieces. ",
+        "Hint": "You did the same thing like some guy called Jim.",
+        "Death": true,
+        "Win": false
+    },
+    "32": {
+        "Text": "You take a rational decision and decide it's best to avoid whatever is coming at you. \nAfter a few minutes of hiding in some bushes, the creature stopped walking about 10 meters away from you. \nCause of the bushes, you can't really see how it looks like. \nIt's definitely big, and brown-black. \nYou hear it sniffing like a mad dog, and you feel threatened. \nJust as you try to move deeper in the forest, you hear a loud roar from the creature, \nand the last thing you see is a dark red boulder above your head.",
+        "Hint": "Do you want to fight, or do you not? I sure do!.",
+        "Death": true,
+        "Win": false
+    },
+    "33": {
+        "Text": "You wait for the bear to move first. The bear just stares at you, menacingly. \nCause of this, the aura of the bear is getting through you. You shiver. You're getting more scared by the second... \nSuddenly, the bear strikes! You want to dodge, but your legs dont want to move... \nWhile screaming 'Mommy!' you get squashed by the boulder.",
+        "Hint": "Goofy ahh death",
+        "Death": true,
+        "Win": false
+    }
+}
