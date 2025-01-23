@@ -19,7 +19,7 @@
         }
     },
     "1": {
-        "Text": "You slowly open your eyes. You wake up from what felt like eternal sleep, but also like you haven't slept at all... \nYou stand up. You're wearing a dirty and a bit torn leather armor, and beside you lies a sword that misses half of it's blade. \nIt might still be useful though. \nThe only thing you want, is to get out.",
+        "Text": "You slowly open your eyes. You wake up from what felt like eternal sleep, but also like you haven't slept at all... \nYou stand up. You're wearing a dirty and a bit torn leather armor, \nand beside you lies a sword that misses half of it's blade. \nIt might still be useful though. \nThe only thing you want, is to get out.",
         "Hint": "Carrying a weapon can severely increase your chances of survival",
         "Death": false,
         "Win": false,
@@ -29,7 +29,7 @@
         }
     },
     "2": {
-        "Text": "You pick up your sword, and put it in your sheathe. \nYou take a look at your surroundings. Around you are the rough, stone walls of the dimly lit cave you just woke up in. \nThere’s a trail of blood, leading to the spot where you woke up.",
+        "Text": "You pick up your sword, and put it in your sheathe. \nYou take a look at your surroundings. \nAround you are the rough, stone walls of the dimly lit cave you just woke up in. \nThere’s a trail of blood, leading to the spot where you woke up.",
         "Hint": "Exploring a small cave isn't very helpful in your situation.",
         "Death": false,
         "Win": false,
@@ -79,7 +79,7 @@
         }
     },
     "7": {
-        "Text": "You unsheathe your small, broken sword and charge towards the huge bear. \nThe bear ROARS, and strikes it's two boulders at the same time towards you. \nYou jump as high as you can just before they hit the ground, and land on the left boulder. \nBefore the bear even realizes he missed, you run up it's huge right arm! \nIt tries to bite you when you are in range of it's head, but you dodge it swiftly while sliding down it's neck. \nAt the same time, you hold your sword in both hands, slicing centimeters deep in the bears throat, all the way to its neck. \nA clean cut. \nThe bear dies soon after.",
+        "Text": "You unsheathe your small, broken sword and charge towards the huge bear. \nThe bear ROARS, and strikes it's two boulders at the same time towards you. \nYou jump as high as you can just before they hit the ground, and land on the left boulder. \nBefore the bear even realizes he missed, you run up it's huge right arm! \nIt tries to bite you when you are in range of it's head, \nbut you dodge it swiftly while sliding down it's neck. \nAt the same time, you hold your sword in both hands, slicing centimeters deep in the bears throat, all the way to its neck. \nA clean cut. \nThe bear dies soon after.",
         "Hint": "This one shouldn't be too hard for you, or are you just messing with me?",
         "Death": false,
         "Win": false,

@@ -79,7 +79,7 @@
         }
     },
     "7": {
-        "Text": "You unsheathe your small, broken sword and charge towards the huge bear. \nThe bear ROARS, and strikes it's two boulders at the same time towards you. \nYou jump as high as you can just before they hit the ground, and land on the left boulder. \nBefore the bear even realizes he missed, you run up it's huge right arm! \nIt tries to bite you when you are in range of it's head, but you dodge it swiftly while sliding down it's neck. \nAt the same time, you hold your sword in both hands, slicing centimeters deep in the bears throat, all the way to its neck. \nA clean cut. \nThe bear dies soon after.",
+        "Text": "You unsheathe your small, broken sword and charge towards the huge bear. \nThe bear ROARS, and strikes it's two boulders at the same time towards you. \nYou jump as high as you can just before they hit the ground, and land on the left boulder. \nBefore the bear even realizes he missed, you run up it's huge right arm! \nIt tries to bite you when you are in range of it's head, \nbut you dodge it swiftly while sliding down it's neck. \nAt the same time, you hold your sword in both hands, slicing centimeters deep in the bears throat, all the way to its neck. \nA clean cut. \nThe bear dies soon after.",
         "Hint": "This one shouldn't be too hard for you, or are you just messing with me?",
         "Death": false,
         "Win": false,
